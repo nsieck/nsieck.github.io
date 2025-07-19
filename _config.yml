@@ -60,23 +60,21 @@ plugins:
 author:
   name   : "Nicole E. Sieck"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Ph.D. candidate in Environmental Health Sciences at the University of Maryland."
+  bio    : "Ph.D. candidate in Environmental Health Sciences at the University of Maryland"
   links:
     - label: "LinkedIn"
-      icon: .fa-blockthis:before {
-  content: "\f08c";
-}
-#"fas fa-fw fa-linkedin-square" 
+      icon: "fas fa-fw fa-linkedin" 
       url: "https://www.linkedin.com/in/nsieck"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
 #      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/nsieck"
     - label: "Google Scholar"
       icon: "ai ai-fw ai-google-scholar-square"
       url: "https://scholar.google.com/citations?user=LOhmbOUAAAAJ&hl=en&oi=ao"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/nsieck"
+
   #  - label: "Instagram"
   #    icon: "fab fa-fw fa-instagram"
   #    url: "https://instagram.com/"
