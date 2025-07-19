@@ -12,6 +12,8 @@ I took a ***circuitous*** path to get to environmental health. For my undergradu
 
 <img src="https://github.com/nsieck/nsieck.github.io/blob/master/assets/images/ASU.jpg" style="display: block; margin: auto;" />
 
+<img src="./assets/images/ASU.jpg" style="display: block; margin: auto;" />
+
 Immediately after finishing my undergraduate degree, I headed to Austin, TX to start the Doctor of Audiology (Au.D.) program at The University of Texas at Austin (UT Austin). At UT Austin, I took classes, worked in a number of clinical settings, and became involved in several student organizations. I served as the Vice President of the UT Student Academy of Audiology chapter as well as the Secretary for the UT student chapter of the Acoustical Society of America. I continued to be interested in research, and completed a T35 Research Traineeship during the summer of 2015 at Boys Town National Research Hospital where I worked with Stephen Neely and Michael Gorga on an project measuring distortion-product otoacoustic emissions. 
 
 Back at UT Austin, I completed a capstone project during my third year. This was a small project that looked at chirp-evoked auditory brainstem responses. Like virtually all Au.D. students, I then went on to start my clinical externship after my third year. 
