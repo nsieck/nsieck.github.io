@@ -1,7 +1,7 @@
 ---
-title: "Pupblications"
+title: "Publications"
 permalink: /publications/
-layout: tags
+layout: 
 author_profile: true
 ---
 1.	Sieck NE, Liang M, Song H, He H, Raimann JG, Cruz R, Sapkota AR, Salawich RJ, Maddux FW, Usvyat LA, Kotanko P, Sapkota A. (2025). Risk of hospitalization and mortality across US climate regions following extreme heat exposure in patients with end-stage kidney disease (ESKD) receiving in-center hemodialysis. Under review.
