@@ -14,4 +14,4 @@ author_profile: true
    - Cited in [Plastics Briefing Paper](https://projecttendr.org/wp-content/uploads/2024/04/Project-TENDR_Plastics-Briefing-Paper_April-2024.pdf) used at the Global Plastics Treaty negotiations in 2024
    - Covered in [Maryland Today article](https://today.umd.edu/study-effective-policies-needed-to-curb-hormone-disrupting-chemicals)
 
-4. 4.	Sieck NE, Rasetshwane DM, Kopun JG, Jesteadt W, Gorga MP & Neely ST. (2016). Multi-tone suppression of distortion-product otoacoustic emissions in humans. Journal of the Acoustical Society of America, 139(5):2299-2309. doi: [10.1121/1.4946989.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4859829/)
+4.	Sieck NE, Rasetshwane DM, Kopun JG, Jesteadt W, Gorga MP & Neely ST. (2016). Multi-tone suppression of distortion-product otoacoustic emissions in humans. Journal of the Acoustical Society of America, 139(5):2299-2309. doi: [10.1121/1.4946989.](https://pmc.ncbi.nlm.nih.gov/articles/PMC4859829/)
