@@ -13,7 +13,7 @@ This is the project that my dissertation is a part of.
 
 ### AWARE
 
-Maryland Today (article)[https://today.umd.edu/umd-led-ai-system-aims-to-save-lives-endangered-by-extreme-weather] on the project. 
+Maryland Today [article](https://today.umd.edu/umd-led-ai-system-aims-to-save-lives-endangered-by-extreme-weather) on the project. 
 
 
 ## Previous Projects
