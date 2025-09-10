@@ -11,6 +11,9 @@ permalink: /projects/
 Currently, I am focused on the risk of adverse health outcomes following climate-related exposures in patients with end-stage kidney disease. This work is part of a collaboration between Amir Sapkota's lab at UMD and the Renal Research Institute, which is a wholly owned research subsidary of Fresenius Medical Care North America. 
 This is the project that my dissertation is a part of.
 
+### AWARE
+
+Maryland Today (article)[https://today.umd.edu/umd-led-ai-system-aims-to-save-lives-endangered-by-extreme-weather] on the project. 
 
 
 ## Previous Projects
