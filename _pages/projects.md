@@ -9,11 +9,11 @@ permalink: /projects/
 
 ### End-stage kidney disease and climate change 
 Currently, I am focused on the risk of adverse health outcomes following climate-related exposures in patients with end-stage kidney disease. This work is part of a collaboration between Amir Sapkota's lab at UMD and the Renal Research Institute, which is a wholly owned research subsidary of Fresenius Medical Care North America. 
-This is the project that my dissertation is a part of.
+This is the project that my dissertation was a part of.
 
 ### AWARE
 
-Awareness Against Health Threats of Extreme Weather Events (AWARE)
+As another component of my post-doc, I am working as a part-time Program Manager for the Awareness Against Health Threats of Extreme Weather Events [AWARE](https://sph.umd.edu/academics/departments-units/department-epidemiology-and-biostatistics/research-and-service-epidemiology-and-biostatistics/aware). This is a large, multi-national consortium dedicated to understanding how climate factors influence the risk of diarrheal disease in India, Indonesia, Nepal, South Africa, Taiwan, and Vietnam. Moreover, this project aims to use machine learning to forecast (with a seasonal to sub-seasonal lead time) disease burden to inform public health interventions. 
 
 Maryland Today [article](https://today.umd.edu/umd-led-ai-system-aims-to-save-lives-endangered-by-extreme-weather) on the project. 
 
