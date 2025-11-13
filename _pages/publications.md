@@ -4,7 +4,7 @@ permalink: /publications/
 layout: single
 author_profile: true
 ---
-1.	Sieck NE, Liang M, Song H, He H, Raimann JG, Cruz R, Sapkota AR, Salawich RJ, Maddux FW, Usvyat LA, Kotanko P, Sapkota A. (2025). Risk of hospitalization and mortality across US climate regions following extreme heat exposure in patients with end-stage kidney disease (ESKD) receiving in-center hemodialysis. Under review.
+1.	Sieck NE, Liang M, Song H, He H, Raimann JG, Cruz R, Sapkota AR, Salawich RJ, Maddux FW, Usvyat LA, Kotanko P, Sapkota A. (2025). Risk of hospitalization and mortality across US climate regions following extreme heat exposure in patients with end-stage kidney disease (ESKD) receiving in-center hemodialysis. Environmental Health, in press.
    - Dissertation paper
 
 2.	Song H, Liang M, Sieck NE, Huang L, He X, Nguyen Q, Raimann J, Maddux FW, Ellicott EA, Liang X-Z, Kotanko P, Sapkota A. (2025). Impact of 2023 Canadian wildfire smoke on hospitalization and mortality among hemodialysis patients in the US. Kidney International Reports,10(6):1750-1760. doi: [10.1016/j.ekir.2025.04.002.](https://www.sciencedirect.com/science/article/pii/S2468024925002037) 
