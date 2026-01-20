@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Nicole E. Sieck, Au.D., CCC-A
+title: Nicole E. Sieck, Ph.D., Au.D., CCC-A
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Nicole E. Sieck, Au.D., CCC-A"
+  name   : "Nicole E. Sieck, Ph.D., Au.D., CCC-A"
   avatar : "/assets/images/headshot.jpg"
-  bio    : "Ph.D. candidate in Environmental Health Sciences at the University of Maryland"
+  bio    : "Postdoctoral Fellow at the University of Maryland"
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin" 
