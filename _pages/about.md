@@ -5,7 +5,7 @@ author_profile: true
 permalink: /about/
 ---
 
-Hi! I’m Nicole. I am a Postdoctoral Fellow in Epidemiology in the Department of Epidemiology and Biostatistics in the School of Public Health at the University of Maryland, College Park (UMD).
+I’m Nicole and I am a Postdoctoral Fellow in Epidemiology within the Department of Epidemiology and Biostatistics in the School of Public Health at the University of Maryland, College Park (UMD).
 
 I took a **circuitous** path to get to environmental health. For my undergraduate studies, I attended Arizona State University where I majored in Speech and Hearing Science and minored in Communication. I was also enrolled in Barrett, The Honors College, which involved taking some extra classes, classes for honors credit, and completing an undergraduate thesis. My honors thesis was titled, “Sentence Recognition with a Pulse Train Vocoder.” This project was supervised by William Yost and involved having participants listen and repeat sentences that were passed through a vocoder to simulate cochlear implant listening. I graduated summa cum laude and with honors in 2013. 
 ![ASU Graduation Photo](https://github.com/nsieck/nsieck.github.io/blob/master/assets/images/ASU.jpg)
